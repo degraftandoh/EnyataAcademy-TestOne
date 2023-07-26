@@ -1,0 +1,3 @@
+
+The standard defintion is, 1,073,741,824 bytes is equivalent to One(1) gigabyte but for marketing purposes,
+1,000,000,000 bytes is usually used to be equal to a gigabyte.

@@ -1,0 +1,30 @@
+
+a.   DOM (Document Object Model):
+
+DOM is like a map that browsers create for web pages.
+It represents the web page's structure as a tree, with each element
+(like headings, paragraphs, images) as a branch in the tree. 
+It allows developers to interact with and modify the content of a web page using JavaScript.
+
+b.  Promises:
+
+Promises are like guarantees for getting results from tasks that take time, 
+like reading a file or making a network request. They represent the eventual outcome
+(success or failure) of these tasks. With promises, 
+developers can easily handle and chain these asynchronous tasks,
+making code more organized and readable.
+
+c.  Object-Oriented Programming (OOP):
+
+OOP is a way of organizing code like playing with Lego blocks.
+It groups together data and functions that belong to a specific "thing"
+(like a person, car, or animal) into one package called an "object."
+It helps developers create reusable and structured code, making it easier to
+manage and extend their programs.
+
+d.  Callback:
+
+A callback is like leaving a phone number for someone to call you back. In programming,
+a callback is a function you give to another function to be executed later when something is done.
+It allows you to handle asynchronous operations (like reading files or getting data from a server) 
+effectively without waiting for them to finish.
